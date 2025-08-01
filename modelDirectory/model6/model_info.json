@@ -1,0 +1,9 @@
+{
+    "model_name": "DeBERTa-v3-base",
+    "epochs": 5,
+    "learning_rate": 5e-05,
+    "learning_rate_scheduler": "linear",
+    "batch_size": 8,
+    "max_sequence_length": 256,
+    "notes": "chunking used, weighted loss function, log weighting with 1.2 exponent, weightDecay=0.01, dropout=0.2"
+}

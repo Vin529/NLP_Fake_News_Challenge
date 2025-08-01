@@ -1,0 +1,9 @@
+{
+    "model_name": "DeBERTa-v3-base",
+    "epochs": 5,
+    "learning_rate": 5e-05,
+    "learning_rate_scheduler": "cosine",
+    "batch_size": 8,
+    "max_sequence_length": 256,
+    "notes": "chunking used, learning rate scheduler set to cosine"
+}

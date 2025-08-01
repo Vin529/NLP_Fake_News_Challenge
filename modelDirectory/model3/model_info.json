@@ -1,0 +1,9 @@
+{
+    "model_name": "DeBERTa-v3-base",
+    "epochs": 5,
+    "learning_rate": 5e-05,
+    "learning_rate_scheduler": "linear",
+    "batch_size": 8,
+    "max_sequence_length": 256,
+    "notes": "This model uses chunking in the article body to extend the number of exmaples in underrepresented classes 0, 1 and 2. CHUNK_STRIDE_FACTOR = 0.75"
+}
