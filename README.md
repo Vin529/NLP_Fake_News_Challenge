@@ -1,5 +1,5 @@
 This repository contains my solution for FNC-1 (Fake News Challenge: http://www.fakenewschallenge.org/).
-The code and report in this repository were submitted as part of the 4th year Natural Language Processing Module to the Computer Science Department at Durham University. It was awarded a mark of 88% (2nd highest in the year).
+The code and report in this repository were submitted as part of the 4th year Natural Language Processing Module to the Computer Science Department at Durham University. This work was awarded a mark of 88% (2nd highest in the year).
 
 # Dataset
 The FNC dataset consists of 49,973 pairs of headlines and article bodies. The body text is annotated by the following classes: Agree, Disagree, Discuss, or Unrelated to the headline.
